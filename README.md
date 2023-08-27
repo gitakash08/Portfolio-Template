@@ -81,10 +81,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 To deploy your portfolio, you can use platforms like GitHub Pages, Netlify, Vercel, etc. Refer to their respective documentation for detailed instructions on how to deploy a React + Vite application.
 
----
-
-Feel free to customize this README to better suit your portfolio and its content. Good luck with your portfolio, and happy coding! If you have any questions or need assistance, feel free to reach out.
-
 [Akash Tripathi](https://your-portfolio-url.com)
 [Your Email](mailto:imakash.contact@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/meetakash08)
